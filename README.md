@@ -1,2 +1,2 @@
-# QA_Study
+# QA-Study
 My study QA manual
